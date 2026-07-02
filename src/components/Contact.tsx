@@ -98,7 +98,7 @@ export default function Contact() {
         {/* Social links */}
         <div className="mt-12 flex justify-center gap-6 text-slate-400">
           <a
-            href="https://github.com/tdakile"
+            href="https://github.com/adonise25"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-slate-700 transition-colors"
